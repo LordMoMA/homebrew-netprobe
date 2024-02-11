@@ -1,4 +1,4 @@
-class NetProbe < Formula
+class Netprobe < Formula
     desc "A CLI tool for network interface statistics"
     homepage "https://github.com/LordMoMA/NetProbe"
     url "https://github.com/LordMoMA/NetProbe/archive/v1.0.0.tar.gz"
